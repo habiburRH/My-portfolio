@@ -1,0 +1,47 @@
+.skill-title {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    color: #fff!important;
+    font-weight: 600!important;
+}
+.skill-area{
+    background-color: #464646;
+    padding: 5px;
+}
+.card-deck{
+    justify-content: center;
+}
+.card-title{
+    font-weight: 500;
+    font-size: 2rem!important;
+    color: #2b2b2b;
+}
+.focus {
+    transition: transform 0.3s;
+  }
+  
+  .focus:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  
+  .image-style {
+    width: 3rem;
+  }
+  
+  .font-details {
+    font-size: 3rem;
+    font-weight: 500;
+    color: #231d5af8;
+  }
+  
+  .font-details-b {
+    font-size: 3rem;
+    font-weight: 500;
+    color: #fff;
+  }
+  

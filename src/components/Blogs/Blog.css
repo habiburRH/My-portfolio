@@ -1,0 +1,12 @@
+.blog-container{
+    background-color: #212121;
+}
+.blog-title{
+    text-align: center;
+    color: #ff1818;
+    padding-top: 100px ;
+    padding-bottom: 50px;
+}
+.blog-title h4{
+    color:#fff;
+}

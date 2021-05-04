@@ -1,0 +1,17 @@
+.resume-container{
+    background-color: #212121;
+}
+.resume-area-header{
+    padding-top: 100px;
+    text-align: center;
+    color: red;
+}
+.resume-area-header h1{
+    font-weight: 600;
+}
+.resume-content{
+    color: #fff;
+}
+.resume-content h4{
+    color: red;
+}
